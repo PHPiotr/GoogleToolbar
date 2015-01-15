@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.phpiotr.googletoolbar">
+    <module_version install_time="1421354814344" last="true" origin="installer" specification_version="1.0">
+        <file crc="1480937685" name="config/Modules/org-phpiotr-googletoolbar.xml"/>
+        <file crc="1418288970" name="modules/org-phpiotr-googletoolbar.jar"/>
+    </module_version>
+</module>
